@@ -1,0 +1,444 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+           <h2>Speed X</h2>
+        <div id="menu">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact Us</a>
+        </div>
+        <h2>About Football Store</h2>
+        <p>The number one rated football store in the country</p>
+        <p> We are passionate about soccer! Our store provides high-quality gear for players of all levels, from balls
+            to jerseys and goalkeeper gear.</p>
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+  <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+      <h2>Speed X</h2>
+  <div id="menu">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact Us</a>
+  </div>
+
+  <div class="product-detail">
+    <h1>Soccer Ball</h1>
+    <div class="product-images">
+      <img src="images/soccer%20ball.jpg" alt="Soccer Ball">
+      <img src="images/soccer%20ball%204.jpg" alt="Soccer Ball">
+    
+    </div>
+      <h2><strong>Price:</strong> R529.99</h2>
+      <p>Limited stock avalible!!!</p>
+      <p><strong>In Stock:</strong> 15</p>
+    <ul>
+      <li>A high-quality soccer ball perfect for all skill levels.</li>
+      <li>Official Euro 2024 Adidas Speed X Football</li>
+      <li>Comes with a FREE ball pump!</li>
+      <li>Size 5</li>
+    </ul>
+   <br/>
+      <p><b>Brand :</b> Adidas Speed X</p>
+      <p><b>Color :</b> White</p>
+      <p><b>Weight:</b> 450g</p>
+      <p><b>Dimensions:</b> 22cm diameter</p>
+      <p><b>Barcode:</b> 1234567890123</p>
+    <br/>
+    <div class="button"> 
+        <a href="button.html">Buy Now</a>
+    </div>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h2>Speed X</h2>
+    <div id="menu">
+        <a href=index.html>Home</a>
+        <a href=about.html>About</a>
+        <a href=contact.html>Contact</a>
+    </div>
+        <h2>Thank You For Your Purchase!</h2>
+        <p>You will be emailed a recipt shortly</p>
+        <p>Your product will be delivered in 2-3 business days</p>
+    </body>
+</html>
+
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <h2>Speed X</h2>
+        <div>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact Us</a>
+        </div>
+
+        <h2>Contact Us</h2>
+        <p>Email: contact@soccerstore.com</p>
+        <p>Phone:068 190 7516</p>
+        <p>Website: www.speedxpro.com</p>
+        <p>Address: 35 Sparks Ave, Durban City</p>
+        <form>
+            <h2>Have an Enquiry ?</h2>
+            <label for="firstname">First Name</label><br />
+            <input type="text" id="firstname" />
+            <br />
+            <br />
+            <label for="email">Email</label><br />
+            <input type="email" id="email" />
+            <br />
+            <br />
+            <label for="enqiury">Enter Enqiury</label><br />
+            <input type="text" id="enqiury" />
+            <br />
+            <br />
+            <div class="submit">
+                <a href="submit.html">Submit</a>
+            </div>
+        </form>
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+  <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+      <h2>Speed X</h2>
+  <div id="menu">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact Us</a>
+  </div>
+
+  <div class="product-detail">
+    <h1>Goal-Posts</h1>
+    <div class="product-images">
+      <img src="images/goal-post.jpg" alt="Goal-Post">
+      <img src="images/goal-post%202.jpg" alt="Goal-Post">
+    </div>
+      <h2><strong>Price:</strong> R1599.99</h2>
+      <p>Limited stock avalible!!!</p>
+      <p><strong>In Stock:</strong> 22</p>
+    <ul>
+      <li>A high-quality and durable Football goal-post</li>
+      <li>Its made for outdoor use and provides high visability and duribility</li>
+      <li>This can be used for both training and matches</li>
+      <li>Comes with a FREE extra net!</li>
+    </ul>
+   <br/>
+      <p><b>Brand :</b> Adidas Speed X</p>
+      <p><b>Color :</b> White</p>
+      <p><b>Weight:</b> 450g</p>
+      <p><b>Dimensions:</b>3m x 2m</p>
+      <p><b>Barcode:</b> 123456878690123</p>
+    <br/>
+    <div class="button"> 
+        <a href="button.html">Buy Now</a>
+    </div>
+  </body>
+</html>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>Speed X Football</h2>
+  <div id="menu">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact Us</a>
+  </div>
+
+  <h2>Our Soccer Products</h2>
+  <div class="product-gallery">
+    <a href="ball.html"><img src="images/soccer%20ball.jpg" alt="Soccer Ball"></a>
+    <a href="soccer-boots.html"><img src="images/soccer%20boots.jpg" alt="Football boots"></a>
+    <a href="soccer-jersey.html"><img src="images/soccer%20jersey.jpg" alt="Soccer Jersey"></a>
+    <a href="goal-post.html"><img src="images/goal-post.jpg" alt="Goal Net"></a>
+    <a href="keeper-gloves.html"><img src="images/goalkeeper%20gloves.jpg" alt="Goalkeeper Gloves"></a>
+  </div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+  <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+      <h2>Speed X</h2>
+  <div id="menu">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact Us</a>
+  </div>
+
+  <div class="product-detail">
+    <h1>Goalkeeper Gloves</h1>
+    <div class="product-images">
+      <img src="images/goalkeeper%20gloves.jpg" alt="Keeper Gloves">
+      <img src="images/goalkeeper%20gloves%202.jpg" alt="Keeper Gloves">
+    </div>
+      <h2><strong>Price:</strong> R529.99</h2>
+      <p>Limited stock avalible!!!</p>
+      <p><strong>In Stock:</strong> 31</p>
+    <ul>
+      <li>High-quality goal-keeper gloves perfect for all skill levels.</li>
+      <li>Official Euro 2023 Adidas Speed X Gloves</li>
+      <li>Comes with a FREE   Goal-keeper stick spray!</li>
+      <li>All sizes avalible!</li>
+    </ul>
+   <br/>
+      <p><b>Brand :</b> Adidas Speed X</p>
+      <p><b>Color :</b> White and Red</p>
+      <p><b>Weight:</b> 250g</p>
+      <p><b>Dimensions:</b> Length: 24cm, Width: 11cm</p>
+      <p><b>Barcode:</b> 12345567890123</p>
+    <br/>
+    <div class="button"> 
+        <a href="button.html">Buy Now</a>
+    </div>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+  <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+      <h2>Speed X</h2>
+  <div id="menu">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact Us</a>
+  </div>
+
+  <div class="product-detail">
+    <h1>Football Cleats</h1>
+    <div class="product-images">
+      <img src="images/soccer%20boots.jpg" alt="Football Cleats">
+      <img src="images/soccer%20boots%203.jpg" alt="Football Cleats">
+      
+    </div>
+      <h2><strong>Price:</strong> R2 729.99</h2>
+      <p>Limited stock avalible!!!</p>
+      <p><strong>In Stock:</strong> 50</p>
+    <ul>
+      <li>High-quality football boots perfect for all skill levels.</li>
+      <li>Official Nike superfly 9 Boots</li>
+      <li>Comes with a FREE pair of grip-socks!</li>
+      <li>All sizes avalible!</li>
+    </ul>
+   <br/>
+      <p><b>Brand :</b> Nike</p>
+      <p><b>Color :</b> Pink and Black</p>
+      <p><b>Weight:</b> 320g</p>
+      <p><b>Dimensions:</b> Length: 28cm, Width: 10cm</p>
+      <p><b>Barcode:</b> 123455678976023</p>
+    <br/>
+    <div class="button"> 
+        <a href="button.html">Buy Now</a>
+    </div>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+  <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+      <h2>Speed X</h2>
+  <div id="menu">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact Us</a>
+  </div>
+
+  <div class="product-detail">
+    <h1>Barcalona 24/25 home kit</h1>
+    <div class="product-images">
+      <img src="images/soccer%20jersey.jpg" alt="Football Jersey">
+      <img src="images/soccer%20jersey%202.jpg" alt="Football Jersey">
+     
+    </div>
+      <h2><strong>Price:</strong> R699.99</h2>
+      <p>Limited stock avalible!!!</p>
+      <p><strong>In Stock:</strong> 35</p>
+    <ul>
+      <li>High-quality 100% polyester Barcalona football jersey.</li>
+      <li>Official 24/25 Barcalona home/away kit</li>
+      <li>Comes with a FREE compresssion under-shirt!</li>
+      <li>All sizes avalible!</li>
+    </ul>
+   <br/>
+      <p><b>Brand :</b> Nike</p>
+      <p><b>Color :</b> Blue and Red</p>
+      <p><b>Weight:</b> 100g</p>
+      <p><b>Dimensions:</b> Length: 70cm, Chest: 100cm</p>
+      <p><b>Barcode:</b> 123455678934423</p>
+    <br/>
+    <div class="button"> 
+        <a href="button.html">Buy Now</a>
+    </div>
+  </body>
+</html>
+
+#menu{
+    width: 100%;
+    height: 50px;
+    background-color: darkblue;
+    padding-top: 15px;
+    text-align: center;
+}
+
+#menu a{
+    color: white;
+    font-family: helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 800;
+   
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+body{
+    background-color: beige;
+}
+
+.gallery img{
+    width: %;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+}
+
+p{
+    color: black;
+    text-align: center;
+    font-family: helvetica, sans-serif;
+}
+
+.gallery-page img{
+    width: 19%;
+    padding-left: 72px;
+    padding-top: 10px;
+}
+
+h1{
+    text-align: center;
+    font-family: helvetica, sans-serif;
+}
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+    font-family: helvetica, sans-serif;
+    list-style-type: square;
+}
+
+.button{
+    width: 100%;
+    text-align: center;
+    padding-bottom: 60px;
+    padding-top: 20px;
+    font-family: helvetica, sans-serif;
+}
+
+.button a{
+    text-decoration: none;
+    background-color: darkblue;
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    border-radius: 10px;
+}
+
+.button a:hover{
+    background-color: white;
+    color: darkblue;
+}
+
+form{
+    text-align: center;
+    font-family: helvetica, sans-serif;
+}
+
+#query{
+    padding-bottom: 50px;
+}
+
+.submit{
+    font-family: helvetica, sans-serif;
+    padding-top: 10px;
+}
+
+.submit a{
+    text-decoration: none;
+    background-color: darkblue;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 40px;
+}
+
+.submit a:hover{
+    background-color: white;
+    color: darkblue;
+}
+<!DOCTYPE html>
+<html>
+    <head>
+       <link rel="stylesheet" href="style.css"
+</head>
+ <body>
+        <h2>Speed X</h2> 
+    <div id="menu">
+        <a href=index.html>Home</a>
+        <a href=about.html>About</a>
+        <a href=contact.html>Contact</a>
+    </div>
+        <h2>Thank You For</h2>   
+        <h2>The Feedback</h2>
+        
+</body>
+</html>
